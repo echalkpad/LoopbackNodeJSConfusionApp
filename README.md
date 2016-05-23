@@ -1,1 +1,1 @@
-# LoopbackNodeJSConfusionApp
+# Loopback-Server-Bluemix
